@@ -1,0 +1,4 @@
+set icons true
+set ignorecase true
+
+map o $/home/niels/.local/bin/lvim $f
