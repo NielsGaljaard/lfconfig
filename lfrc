@@ -1,4 +1,10 @@
+set previewer ~/.config/lf/previewer.sh
 set icons true
 set ignorecase true
 
 map v $/home/niels/.local/bin/lvim $f
+
+map gd cd ~/Dev
+map gr cd ~/Dev/rust
+map gg cd ~/Dev/go
+map gl cd ~/Dev/latex/
