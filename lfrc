@@ -8,3 +8,6 @@ map gd cd ~/Dev
 map gr cd ~/Dev/rust
 map gg cd ~/Dev/go
 map gl cd ~/Dev/latex/
+map gc cd ~/.config
+map d
+map dd delete
